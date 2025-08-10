@@ -1,5 +1,5 @@
 import React, { useState }  from 'react';
-import { Card, Tag, Space, Typography, Divider, Flex } from 'antd';
+import { Card, Tag, Space, Typography, Flex } from 'antd';
 import { LikeOutlined, DislikeOutlined } from '@ant-design/icons';
 import type { TNewsItem } from '../../../../shared/types';
 
